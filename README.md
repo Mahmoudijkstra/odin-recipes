@@ -1,1 +1,2 @@
 # odin-recipes
+This is the first project on my odin journey.I was able to apply what i learned in the HTML introduction.Writing the boilerplate html as well as using headings, paragpraphs, unordered lists, ordered lists, images and finally anchor elements to link my other pages to the index page.
